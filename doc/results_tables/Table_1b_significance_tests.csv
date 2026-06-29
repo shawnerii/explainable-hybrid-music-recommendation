@@ -1,0 +1,5 @@
+Comparison;ΔNDCG@10;p-value;Cohen's d;Significant?
+Proposed vs Collaborative Filtering;+0,043;<0,001;0,13;Yes
+Proposed vs Content-Based Audio;+0,296;<0,001;0,70;Yes
+Proposed vs Semantic Tag Model;+0,046;<0,001;0,16;Yes
+Proposed vs Simple Hybrid Fusion;−0,012;<0,001;−0,10;Yes

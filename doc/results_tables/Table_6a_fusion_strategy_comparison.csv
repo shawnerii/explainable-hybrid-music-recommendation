@@ -1,0 +1,5 @@
+Fusion Strategy;Precision@10;NDCG@10;Interpretability (1–5)
+Weighted Early Fusion;0,0534;0,389;4,29
+Late Fusion;0,0550;0,374;4,34
+Embedding-Level Fusion;0,0526;0,385;4,27
+Attention-Based Fusion;0,0527;0,376;4,23

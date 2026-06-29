@@ -1,0 +1,5 @@
+Semantic Configuration;Precision@10;NDCG@10;Explanation Coverage (%)
+Genres Only;0,0381;0,2728;100,0
+Free-form Tags Only;0,0510;0,3522;100,0
+Artist Metadata;0,0497;0,3715;100,0
+Full Semantic Encoder;0,0525;0,3743;100,0

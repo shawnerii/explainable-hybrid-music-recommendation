@@ -1,0 +1,7 @@
+Scenario;Available Signals;NDCG@10
+New User (1 interaction);Audio + Semantic + minimal behavior;0,239
+New User (5 interactions);Behavior + Audio + Semantic;0,406
+New User (10 interactions);Behavior + Audio + Semantic;0,421
+New Track;Audio + Semantic;0,240
+Sparse Metadata Track;Behavior + Partial Audio;0,358
+Full-data reference;All signals;0,376

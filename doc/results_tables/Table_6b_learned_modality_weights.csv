@@ -1,0 +1,6 @@
+Scenario;Behavior;Audio;Semantic
+High-Activity User;0,51;0,24;0,25
+Low-Activity User;0,28;0,36;0,36
+New Item Recommendation;0,00;0,57;0,43
+Diverse Taste User;0,50;0,24;0,26
+Calm-Mood Listener;0,44;0,28;0,29

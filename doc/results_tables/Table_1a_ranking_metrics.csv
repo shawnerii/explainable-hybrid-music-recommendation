@@ -1,0 +1,6 @@
+Model;Precision@10;Recall@10;NDCG@10;MAP@10
+Collaborative Filtering;0,0489;0,4893;0,3338;0,2857
+Content-Based (Audio);0,0168;0,1678;0,0807;0,0547
+Semantic Tag Model;0,0468;0,4680;0,3308;0,2887
+Simple Hybrid Fusion;0,0534;0,5340;0,3887;0,3432
+Proposed Explainable Hybrid;0,0527;0,5265;0,3764;0,3294

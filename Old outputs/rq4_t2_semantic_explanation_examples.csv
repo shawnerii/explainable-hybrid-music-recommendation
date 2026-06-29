@@ -1,0 +1,6 @@
+Rank,Track ID,Matched Semantic Evidence,Semantic Score,Example Explanation
+1,TROMNLZ12903CCC6F7,"soul, reggae",0.3435082714909865,"Recommended because it aligns with your recent semantic preferences: soul, reggae."
+2,TRUCWXA128F92E4944,implicit semantic similarity,0.0,Recommended because it aligns with your recent semantic preferences: genre/mood consistency.
+3,TRQKROW12903CFABF6,implicit semantic similarity,0.0,Recommended because it aligns with your recent semantic preferences: genre/mood consistency.
+4,TRVOVEQ128F92D71C6,implicit semantic similarity,0.0,Recommended because it aligns with your recent semantic preferences: genre/mood consistency.
+5,TRNJNGM128EF359E21,chill,0.03472891672539098,Recommended because it aligns with your recent semantic preferences: chill.

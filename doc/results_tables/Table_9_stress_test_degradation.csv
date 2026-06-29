@@ -1,0 +1,6 @@
+Stress Condition;NDCG@10;Performance Drop
+No Stress (Full Data);0,376;0,0%
+10% Missing Audio Features;0,348;7,7%
+20% Interaction Sparsity Increase;0,342;9,1%
+30% Missing Semantic Tags;0,309;17,8%
+Combined Stress Condition;0,303;19,5%

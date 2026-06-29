@@ -1,0 +1,6 @@
+field,value
+python_version,3.12.13
+numpy_version,2.4.6
+pandas_version,2.3.3
+scikit_learn_version,1.6.1
+timestamp_utc,2026-05-31 23:42:56

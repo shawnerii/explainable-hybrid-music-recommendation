@@ -1,0 +1,5 @@
+User Activity Level;Users;CF NDCG@10;Proposed NDCG@10;Lift (%)
+Very Low (1–5);19899;0,319;0,338;+6,1
+Low (6–20);8510;0,365;0,453;+24,0
+Medium (21–50);1438;0,348;0,445;+27,8
+High (>50);153;0,379;0,429;+13,1

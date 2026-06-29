@@ -1,0 +1,14 @@
+Audio Feature;Importance;NDCG@10 Without Feature;ΔNDCG@10
+danceability;0,0169;0,3749;−0,0015
+instrumentalness;0,0144;0,3735;−0,0029
+speechiness;0,0144;0,3762;−0,0001
+acousticness;0,0128;0,3748;−0,0015
+valence;0,0111;0,3753;−0,0011
+duration_ms;0,0106;0,3763;−0,0001
+loudness;0,0100;—;—
+liveness;0,0085;—;—
+energy;0,0085;—;—
+tempo;0,0066;—;—
+key;0,0054;—;—
+mode;0,0011;—;—
+time_signature;0,0006;—;—

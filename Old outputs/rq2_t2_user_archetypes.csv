@@ -1,0 +1,5 @@
+Cluster,Archetype,Users,Avg. Interactions,Approx. Session Diversity,Dominant Recommendation Style
+C1,Mainstream Pop Repeaters,108,7.351851851851852,0.7090680100755667,Behavior-heavy
+C2,High-Energy Explorers,115,5.043478260869565,0.6224137931034482,Behavior + audio
+C3,Mood-Oriented Evening Listeners,7747,3.994578546534142,0.32117236476442834,Behavior + semantic
+C4,Genre-Diverse Discovery Users,30,10.366666666666667,0.8553054662379421,Balanced fusion

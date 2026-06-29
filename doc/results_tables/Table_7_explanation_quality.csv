@@ -1,0 +1,5 @@
+Explanation Method;Fidelity;Coverage (%);Diversity;Composite Quality Score (1–5)
+Template-Only;0,000;100,0;0,0004;2,00
+Feature-Based;0,498;100,0;0,0047;3,00
+Tag-Based;0,006;100,0;0,0214;2,03
+Proposed Multimodal Explanation;0,337;100,0;0,0154;2,69

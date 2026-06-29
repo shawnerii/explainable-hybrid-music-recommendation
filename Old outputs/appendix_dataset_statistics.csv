@@ -1,0 +1,2 @@
+n_users,n_tracks,n_interactions,sparsity,avg_interactions_per_user,avg_interactions_per_track,n_audio_columns,n_semantic_columns
+8000,11039,40631,0.999539915300299,5.078875,3.680677597608479,13,3

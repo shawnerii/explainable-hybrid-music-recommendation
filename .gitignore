@@ -1,0 +1,15 @@
+# Large data files
+data/User Listening History.csv
+data/MP3-Example/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda
+anaconda_projects/
+
+# Claude
+.claude/

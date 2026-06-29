@@ -1,0 +1,6 @@
+Rank,Track ID,Behavior,Audio,Semantic,Final Score,Generated Explanation
+1,TROMNLZ12903CCC6F7,0.0,0.6933719371529784,0.3066280628470216,0.0,"Recommended based on a multimodal match across listening behavior, acoustic profile, and semantic metadata."
+2,TRUCWXA128F92E4944,0.000526235478101108,0.999473764521899,0.0,0.0,"Recommended based on a multimodal match across listening behavior, acoustic profile, and semantic metadata."
+3,TRQKROW12903CFABF6,1.3218395268614688e-05,0.9999867816047313,0.0,0.0,"Recommended based on a multimodal match across listening behavior, acoustic profile, and semantic metadata."
+4,TRVOVEQ128F92D71C6,0.0,1.0,0.0,0.0,"Recommended based on a multimodal match across listening behavior, acoustic profile, and semantic metadata."
+5,TRNJNGM128EF359E21,0.0,0.9614717238229729,0.03852827617702712,0.0,"Recommended based on a multimodal match across listening behavior, acoustic profile, and semantic metadata."

@@ -1,0 +1,7 @@
+Scenario,Available Signals,Precision@10,NDCG@10
+New User (1 interaction),Audio + Semantic + minimal behavior,0.02925,0.19378742901352916
+New User (5 interactions),Behavior + Audio + Semantic,0.05,0.33074635253843837
+New User (10 interactions),Behavior + Audio + Semantic,0.04954248366013072,0.2977591374853621
+New Track,Audio + Semantic,0.03866666666666667,0.2719732717988806
+Sparse Metadata Track,Behavior + Partial Audio,0.043833333333333335,0.2880503220591958
+Full-data reference,Behavior + Audio + Semantic,0.043825,0.28964164713516244
